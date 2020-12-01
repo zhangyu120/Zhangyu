@@ -2,9 +2,9 @@
 
 # 1. 前提条件
 请先学习:
-[apply-account.md](https://gitee.com/wu_fengguang/compass-ci/blob/master/doc/manual/apply-account.md), 配置个人邮箱：
-[如何申请测试机.md](https://gitee.com/wu_fengguang/compass-ci/blob/master/doc/manual/如何申请测试机.md), 并在本地生成RSA公私钥对：
-[submit命令详解.md](https://gitee.com/wu_fengguang/compass-ci/blob/master/doc/manual/submit命令详解.md), submit 命令详解：
+* [apply-account.md](https://gitee.com/wu_fengguang/compass-ci/blob/master/doc/manual/apply-account.md), 配置个人邮箱
+* [如何申请测试机.md](https://gitee.com/wu_fengguang/compass-ci/blob/master/doc/manual/如何申请测试机.md), 并在本地生成RSA公私钥对
+* [submit命令详解.md](https://gitee.com/wu_fengguang/compass-ci/blob/master/doc/manual/submit命令详解.md), submit 命令详解
 
 # 2. 操作方法
 ## 2.1 在job.yaml里加上sshd和sleep字段, 以host-info.yaml任务为例：
